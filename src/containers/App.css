@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Boosco Aurora Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Boosco Aurora Regular'), url('BooscoAurora-LVAw4.woff') format('woff');
+    }
+h1{
+    font-family: 'Boosco Aurora Regular';
+    font-weight: 200;
+    color:#0ccac4;
+    
+}    
